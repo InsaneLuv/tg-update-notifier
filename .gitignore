@@ -1,0 +1,7 @@
+.venv
+
+cache
+modules/__pycache__
+
+.env
+.history
